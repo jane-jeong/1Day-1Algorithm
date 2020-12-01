@@ -16,7 +16,7 @@
 
 ### 1. HakerRank > 10 Days of Javascript 
 
-**2020-12-01 Tue** 
+**2020-12-01 Tue | Day 1 ✅** 
 
 Day 0 : Hello, World! (Easy, Success Rate: 92.76%) **(Solved✅)**
 

@@ -1,8 +1,14 @@
-# 1Day-1Algorithm
+# 1 Day 1 Algorithm
 1 Day 1 Algorithm Challenge
 
-## HakerRank 
-[Practice > Tutorials > 10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+<br>
+
+**Start date: 2020-12-01**
+
+<br>
+
+## Quiz Sources
+[1. HakerRank > Practice > Tutorials > 10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
 ### HakerRank > 10 Days of Javascript 
 **2020-12-01 Tue** 

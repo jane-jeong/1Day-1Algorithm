@@ -1,3 +1,8 @@
+// @Title: 10 Days of JavaScript > Day 0: Hello, World!
+// @Source: https://www.hackerrank.com/challenges/js10-hello-world/problem
+// @Date: 2020-12-01 Tue
+// @Status: Solved✅
+
 'use strict';
 
 /**

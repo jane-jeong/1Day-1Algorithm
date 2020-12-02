@@ -1,3 +1,8 @@
+// @Title: 10 Days of JavaScript > Day 0: Data Types
+// @Source: https://www.hackerrank.com/challenges/js10-data-types/problem
+// @Date: 2020-12-01 Tue
+// @Status: Solved✅
+
 'use strict';
 
 /**

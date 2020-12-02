@@ -14,10 +14,19 @@
 <br>
 <br>
 
-### 1. HakerRank > 10 Days of Javascript 
+### 1. HakerRank > 10 Days of Javascript [link](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
-**| 2020-12-01 Tue | Day 1 ✅ |** 
+**| 2020-12-01 Tue | Day 0 ✅ |** 
 
 Day 0 : Hello, World! (Easy, Success Rate: 92.76%) **(Solved✅)**
 
 Day 0 : Data Types (Easy, Success Rate: 95.59%) **(Solved✅)**
+
+
+**| 2020-12-02 Wed | Day 1 ✅ |** 
+
+Day 1 : Arithmetic Operators (Easy, Success Rate: 99.33%) **(Solved✅)**
+
+Day 1 : Functions (Easy, Success Rate: 99.02%) **(Solved✅)**
+
+Day 1 : Let and Const (Easy, Success Rate: 98.73%) **(Solved✅)**

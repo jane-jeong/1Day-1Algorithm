@@ -30,3 +30,11 @@ Day 1 : Arithmetic Operators (Easy, Success Rate: 99.33%) **(Solved✅)**
 Day 1 : Functions (Easy, Success Rate: 99.02%) **(Solved✅)**
 
 Day 1 : Let and Const (Easy, Success Rate: 98.73%) **(Solved✅)**
+
+**| 2020-12-03 Thur | Day 2 ✅ |** 
+
+Day 2 : Conditional Statements: If-Else (Easy, Success Rate: 99.15%) **(Solved✅)**
+
+Day 2 : Conditional statements: Switch (Easy, Success Rate: 98.80%) **(Solved✅)**
+
+Day 2 : Loops (Easy, Success Rate: 98.47%) **(Solved✅)**

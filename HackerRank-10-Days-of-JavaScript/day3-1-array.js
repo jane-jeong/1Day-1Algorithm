@@ -1,6 +1,6 @@
 // @Title: 10 Days of JavaScript > Day 3: Array
 // @Source: https://www.hackerrank.com/challenges/js10-arrays/problem
-// @Date: 2020-12-04 Fir
+// @Date: 2020-12-04 Fri
 // @Status: Solved✅
 
 'use strtict'; 

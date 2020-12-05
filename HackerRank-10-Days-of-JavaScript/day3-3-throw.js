@@ -1,6 +1,6 @@
 // @Title: 10 Days of JavaScript > Day 3: Throw
 // @Source: https://www.hackerrank.com/challenges/js10-throw/problem
-// @Date: 2020-12-04 Fir
+// @Date: 2020-12-04 Fri
 // @Status: Solved✅
 
 'use strtict'; 

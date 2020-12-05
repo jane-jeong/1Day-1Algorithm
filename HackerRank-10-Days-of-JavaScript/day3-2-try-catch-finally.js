@@ -1,6 +1,6 @@
 // @Title: 10 Days of JavaScript > Day 3: Try, Catch and Finally
 // @Source: https://www.hackerrank.com/challenges/js10-try-catch-and-finally/forum
-// @Date: 2020-12-04 Fir
+// @Date: 2020-12-04 Fri
 // @Status: Solved✅
 
 'use strtict'; 

@@ -31,6 +31,7 @@ Day 1 : Functions (Easy, Success Rate: 99.02%) **(Solved✅)**
 
 Day 1 : Let and Const (Easy, Success Rate: 98.73%) **(Solved✅)**
 
+
 **| 2020-12-03 Thur | Day 2 ✅ |** 
 
 Day 2 : Conditional Statements: If-Else (Easy, Success Rate: 99.15%) **(Solved✅)**
@@ -38,3 +39,28 @@ Day 2 : Conditional Statements: If-Else (Easy, Success Rate: 99.15%) **(Solved�
 Day 2 : Conditional statements: Switch (Easy, Success Rate: 98.80%) **(Solved✅)**
 
 Day 2 : Loops (Easy, Success Rate: 98.47%) **(Solved✅)**
+
+BaekJoon - Drawing Cat **(Solved✅)**
+
+
+**| 2020-12-04 Fri | Day 3 ✅ |** 
+
+Day 3 : Array **(Solved✅)**
+
+Day 3 : Try, Catch and Finally **(Solved✅)**
+
+Day 3 : Throw **(Solved✅)**
+
+
+**| 2020-12-05 Sat | Day 4 ✅ |** 
+
+Day 4 : Create a Rectange Object **(Solved✅)**
+
+Day 4 : Count Objects **(Solved✅)**
+
+
+**| 2020-12-06 Sun | Day 5 ✅ |** 
+
+Programmers - level1 - 정렬 - k번째수 **(Solved✅)**
+
+Programmers - level1 - 연습문제 - 2016년 **(Solved✅)**

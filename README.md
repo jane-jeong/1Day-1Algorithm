@@ -16,51 +16,76 @@
 
 ### 1. HakerRank > 10 Days of Javascript [link](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
-**| 2020-12-01 Tue | Day 0 ✅ |** 
+**| 2020-12-01 Tue | Day 1 ✅ |** 
 
-Day 0 : Hello, World! (Easy, Success Rate: 92.76%) **(Solved✅)**
+Day 0 : Hello, World! **(Solved)**
 
-Day 0 : Data Types (Easy, Success Rate: 95.59%) **(Solved✅)**
+Day 0 : Data Types **(Solved)**
 
+<br>
 
-**| 2020-12-02 Wed | Day 1 ✅ |** 
+**| 2020-12-02 Wed | Day 2 ✅ |** 
 
-Day 1 : Arithmetic Operators (Easy, Success Rate: 99.33%) **(Solved✅)**
+Day 1 : Arithmetic Operators **(Solved)**
 
-Day 1 : Functions (Easy, Success Rate: 99.02%) **(Solved✅)**
+Day 1 : Functions **(Solved)**
 
-Day 1 : Let and Const (Easy, Success Rate: 98.73%) **(Solved✅)**
+Day 1 : Let and Const **(Solved)**
 
+<br>
 
-**| 2020-12-03 Thur | Day 2 ✅ |** 
+**| 2020-12-03 Thur | Day 3 ✅ |** 
 
-Day 2 : Conditional Statements: If-Else (Easy, Success Rate: 99.15%) **(Solved✅)**
+Day 2 : Conditional Statements: If-Else **(Solved)**
 
-Day 2 : Conditional statements: Switch (Easy, Success Rate: 98.80%) **(Solved✅)**
+Day 2 : Conditional statements: Switch **(Solved)**
 
-Day 2 : Loops (Easy, Success Rate: 98.47%) **(Solved✅)**
+Day 2 : Loops **(Solved)**
 
-BaekJoon - Drawing Cat **(Solved✅)**
+BaekJoon - Drawing Cat **(Solved)**
 
+<br>
 
-**| 2020-12-04 Fri | Day 3 ✅ |** 
+**| 2020-12-04 Fri | Day 4 ✅ |** 
 
-Day 3 : Array **(Solved✅)**
+Day 3 : Array **(Solved)**
 
-Day 3 : Try, Catch and Finally **(Solved✅)**
+Day 3 : Try, Catch and Finally **(Solved)**
 
-Day 3 : Throw **(Solved✅)**
+Day 3 : Throw **(Solved)**
 
+<br>
 
-**| 2020-12-05 Sat | Day 4 ✅ |** 
+**| 2020-12-05 Sat | Day 5 ✅ |** 
 
-Day 4 : Create a Rectange Object **(Solved✅)**
+Day 4 : Create a Rectange Object **(Solved)**
 
-Day 4 : Count Objects **(Solved✅)**
+Day 4 : Count Objects **(Solved)**
 
+<br>
 
-**| 2020-12-06 Sun | Day 5 ✅ |** 
+**| 2020-12-06 Sun | Day 6 ✅ |** 
 
-Programmers - level1 - 정렬 - k번째수 **(Solved✅)**
+Programmers - level1 - 정렬 - k번째수 **(Solved)**
 
-Programmers - level1 - 연습문제 - 2016년 **(Solved✅)**
+Programmers - level1 - 연습문제 - 2016년 **(Solved)**
+
+<br>
+
+**| 2020-12-07 Mon | Day 7 ✅ |** 
+
+Day 4 : Classes **(Solved)**
+
+Day 5 : Inheritance **(Solved)**
+
+Programmers - level1 - 연습문제 - 나누어 떨어지는 숫자 배열 **(Solved)**
+
+Programmers - level1 - 연습문제 - 같은 숫자는 싫어 **(Solved)**
+
+Programmers - level1 - 연습문제 - 가운데 글자 가져오기 **(Solved)**
+
+Programmers - level1 - 연습문제 - 문자열 내 p와 y의 개수 **(Solved)**
+
+Programmers - level1 - 월간 코드 챌린지 시즌1 - 두 개 뽑아서 더하기 **(Solved)**
+
+Programmers - level1 - 연습문제 - 두 정수 사이의 합 **(Solved)**

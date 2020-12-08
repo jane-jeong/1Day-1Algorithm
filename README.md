@@ -89,3 +89,27 @@ Programmers - level1 - 연습문제 - 문자열 내 p와 y의 개수 **(Solved)*
 Programmers - level1 - 월간 코드 챌린지 시즌1 - 두 개 뽑아서 더하기 **(Solved)**
 
 Programmers - level1 - 연습문제 - 두 정수 사이의 합 **(Solved)**
+
+<br>
+
+**| 2020-12-08 Tue | Day 8 ✅ |** 
+
+String Reverse 함수 만들기 **(Solved)**
+
+Programmers - level1 - 연습문제 - 문자열 내 마음대로 정렬하기 **(Solved)**
+
+Programmers - level1 - 연습문제 - 문자열을 정수로 바꾸기 **(Solved)**
+
+Programmers - level1 - 월간 코드 챌린지 시즌1 - 내적 **(Solved)**
+
+Programmers - level1 - 연습문제 - 소수 찾기 **(⬜Unsolved)**
+
+Programmers - level1 - 연습문제 - 수박수박수박수박수박수? **(Solved)**
+
+Programmers - level1 - 연습문제 - 서울에서 김서방 찾기 **(Solved)**
+
+Programmers - level1 - 연습문제 - 문자열 다루기 기본 **(Solved)**
+
+Programmers - level1 - 연습문제 - 문자열 내림차순으로 배치하기 **(Solved)**
+
+Programmers - level1 - 연습문제 - 시저 암호  **(⬜Unsolved)**

@@ -34,7 +34,7 @@ Day 1 : Let and Const **(Solved)**
 
 <br>
 
-**| 2020-12-03 Thur | Day 3 ✅ |** 
+**| 2020-12-03 Thu | Day 3 ✅ |** 
 
 Day 2 : Conditional Statements: If-Else **(Solved)**
 
@@ -102,7 +102,7 @@ Programmers - level1 - 연습문제 - 문자열을 정수로 바꾸기 **(Solved
 
 Programmers - level1 - 월간 코드 챌린지 시즌1 - 내적 **(Solved)**
 
-Programmers - level1 - 연습문제 - 소수 찾기 **(⬜Unsolved)**
+Programmers - level1 - 연습문제 - 소수 찾기 **(⬜Unsolved)**✨ (정확도✅ 효율성❌)
 
 Programmers - level1 - 연습문제 - 수박수박수박수박수박수? **(Solved)**
 
@@ -112,4 +112,30 @@ Programmers - level1 - 연습문제 - 문자열 다루기 기본 **(Solved)**
 
 Programmers - level1 - 연습문제 - 문자열 내림차순으로 배치하기 **(Solved)**
 
-Programmers - level1 - 연습문제 - 시저 암호  **(⬜Unsolved)**
+Programmers - level1 - 연습문제 - 시저 암호  **(⬜Unsolved)**✨
+
+<br>
+
+**| 2020-12-09 Wed | Day 9 ✅ |**
+
+Programmers - level1 - 연습문제 - 약수의 합 **(Solved)**
+
+Programmers - level1 - 연습문제 - 이상한 문자 **(⬜Unsolved)**✨
+
+Programmers - level1 - 연습문제 - 자릿수 더하기 **(Solved)**
+
+Programmers - level1 - 연습문제 - 자연수 뒤집어 배열로 만들기 **(Solved)**
+
+Programmers - level1 - 연습문제 - 정수 내림차순으로 배치하기 **(Solved)**
+
+Programmers - level1 - 연습문제 - 정수 제곱근 판별 **(Solved)**💬✨
+
+Programmers - level1 - 연습문제 - 제일 작은 수 제거하기 **(Solved)**💬✨
+
+Programmers - level1 - 연습문제 - 짝수와 홀수 **(Solved)**
+
+Programmers - level1 - 연습문제 - 2020 카카오 인턴십 - 키패드 누르기 **(⬜Unsolved)**✨ (정확도✅ 효율성❌)
+
+Programmers - level1 - 연습문제 - 최대공약수와 최소공배수 **(Solved)**💬✨
+
+**| 2020-12-09 Thu | Day 10 |**

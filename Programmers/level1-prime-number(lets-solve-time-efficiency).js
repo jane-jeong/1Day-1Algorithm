@@ -27,3 +27,28 @@ function solution(n) {
     };
     return answer;
 }
+
+//Solution2 (2020-12-09) 
+
+function solution2(n) {
+    
+    var a = new Int8Array(n+1); 
+    var aCopy = a; 
+    var max = Math.floor(Math.sqrt(n)); 
+    var p = 2; 
+    while(p <= max) {
+        for(var i =2*p; i <= n; i += p)
+            a[i] = 1; 
+        while(a[++p]) ;
+    }
+    while(a[n]) n--;
+    
+    console.log(("original a는" + aCopy));
+    console.log(("a는 " + a));
+    console.log(("a의 타입은 " + typeof(a)));
+    console.log(("max는 " + max));
+
+    return n;
+}
+
+console.log(solution2(10));

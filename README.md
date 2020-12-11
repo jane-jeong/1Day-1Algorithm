@@ -160,23 +160,23 @@
 
 **| 2020-12-11 FRI | Day 11 ✅ |**
 
--[ ] Programmers - Level 1 - 2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임 (JS)
+-[x] Programmers - Level 1 - Summer/Winter Coding(~2018) - 예산(budget)
 
--[ ] Programmers - Level 1 - 연습문제 - 모의고사 (JS)
+-[x] Programmers - Level 1 - 해시 - 완주하지 못한 선수(player-who-could-not-finish)
 
--[ ] Programmers - Level 1 - 해시 - 완주하지 못한 선수 (JS)
+-[x] Programmers - Level 1 - 완전탐색 - 모의고사 (supoja)
+
+-[ ] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - 실패율  
+
+-[ ] Programmers - Level 1 - 2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임
 
 -[ ] Programmers - Level 1 - 탐욕법 - 체육복 
 
 -[ ] Programmers - Level 1 - 월간 코드 챌린지 시즌 1 - 3진법 뒤집기 
 
--[ ] Programmers - Level 1 - Summer/Winter Coding(~2018) - 예산(budget)
-
 -[ ] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - [1차] 비밀 지도 
 
 -[ ] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - [1차] 다트 게임 
-
--[ ] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - 실패율  
 
 <br>
 

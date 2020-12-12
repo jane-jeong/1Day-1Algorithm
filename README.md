@@ -166,7 +166,11 @@
 
 -[x] Programmers - Level 1 - 완전탐색 - 모의고사 (supoja)
 
--[ ] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - 실패율  
+<br>
+
+**| 2020-12-12 SAT | Day 12 ✅ |**
+
+-[x] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - 실패율  
 
 -[ ] Programmers - Level 1 - 2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임
 
@@ -180,7 +184,7 @@
 
 <br>
 
-**| 2020-12-12 SAT | Day 12 ✅ |**
+**| 2020-12-13 | Day 13 ✅ (REVIEW DAY) |**
 
 -[ ] LeetCode - Algorithms - Easy - Reverse Integer **(REVIEW)**
 
@@ -193,10 +197,6 @@
 -[ ] Programmers - Level 1 - 연습문제 - 2020 카카오 인턴십 - 키패드 누르기 (kakao-keypad) (정확도✅ 효율성❌) **(REVIEW)**
 
 -[ ] Programmers - Level 1 - 연습문제 - 콜라츠 추측(collatz-conjecture) - 재귀 풀이법 **(REVIEW)**
-
-<br>
-
-**| 2020-12-13 | Day 13 ✅ (REVIEW DAY) |**
 
 -[ ] Relax and Chill ⛱
 

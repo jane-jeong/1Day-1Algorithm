@@ -96,7 +96,7 @@
 
 -[x] Programmers - Level 1 - 월간 코드 챌린지 시즌1 - 내적 (dot-product)
 
--[ ] Programmers - Level 1 - 연습문제 - 소수 찾기 (primie-number) (정확도✅ 효율성❌) 👀🔍 
+-[🔺] Programmers - Level 1 - 연습문제 - 소수 찾기 (primie-number) (정확도✅ 효율성❌) 👀🔍 
 
 -[x] Programmers - Level 1 - 연습문제 - 수박수박수박수박수박수? (repeat-watermelon)
 
@@ -128,7 +128,7 @@
 
 -[x] Programmers - Level 1 - 연습문제 - 짝수와 홀수 (even-and-odd)
 
--[ ] Programmers - Level 1 - 연습문제 - 2020 카카오 인턴십 - 키패드 누르기 (kakao-keypad) (정확도✅ 효율성❌) 👀🔍
+-[🔺] Programmers - Level 1 - 연습문제 - 2020 카카오 인턴십 - 키패드 누르기 (kakao-keypad) (정확도✅ 효율성❌) 👀🔍
 
 -[x] Programmers - Level 1 - 연습문제 - 최대공약수와 최소공배수 (GCD-and-LCM) 👀🔍
 
@@ -170,33 +170,34 @@
 
 **| 2020-12-12 SAT | Day 12 ✅ |**
 
--[x] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - 실패율  
+-[x] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - 실패율 (fail-rate)
 
--[ ] Programmers - Level 1 - 2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임
-
--[ ] Programmers - Level 1 - 탐욕법 - 체육복 
-
--[ ] Programmers - Level 1 - 월간 코드 챌린지 시즌 1 - 3진법 뒤집기 
-
--[ ] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - [1차] 비밀 지도 
-
--[ ] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - [1차] 다트 게임 
+-[x] Programmers - Level 1 - 탐욕법 - 체육복(PE clothes) 
 
 <br>
 
 **| 2020-12-13 | Day 13 ✅ (REVIEW DAY) |**
 
+-[x] Programmers - Level 1 - 2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임 (doll-draw-game)
+
+-[x] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - [1차] 비밀 지도 (secret_map)
+
+-[🔺] Programmers - Level 1 - 2018 KAKAO BLIND RECRUITMENT - [1차] 다트 게임 
+
+-[x] Programmers - Level 1 - 월간 코드 챌린지 시즌 1 - 3진법 뒤집기 
+
 -[ ] LeetCode - Algorithms - Easy - Reverse Integer **(REVIEW)**
 
--[ ] Programmers - Level 1 - 연습문제 - 소수 찾기 (primie-number) (정확도✅ 효율성❌) **(REVIEW)**
+-[🔺] Programmers - Level 1 - 연습문제 - 소수 찾기 (primie-number) (정확도✅ 효율성❌) **(REVIEW)**
 
 -[ ] Programmers - Level 1 - 연습문제 - 시저 암호 (casesar-chiper) **(REVIEW)**
 
 -[ ] Programmers - Level 1 - 연습문제 - 이상한 문자 (weired-character) **(REVIEW)**
 
--[ ] Programmers - Level 1 - 연습문제 - 2020 카카오 인턴십 - 키패드 누르기 (kakao-keypad) (정확도✅ 효율성❌) **(REVIEW)**
+-[🔺] Programmers - Level 1 - 연습문제 - 2020 카카오 인턴십 - 키패드 누르기 (kakao-keypad) (정확도✅ 효율성❌) **(REVIEW)**
 
 -[ ] Programmers - Level 1 - 연습문제 - 콜라츠 추측(collatz-conjecture) - 재귀 풀이법 **(REVIEW)**
 
--[ ] Relax and Chill ⛱
+
+
 
